@@ -1,0 +1,1619 @@
+2018-03-07 09:30:56 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fa25c6e3660; archive(resolved)='<IDEArchive: 0x7fa24d833550>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team(resolved)='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fa25c6e3660; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fa27c8280f0; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa2627c4cc0; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa27ca0a700; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa27ca1fb50; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa27c81b700; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa27c870600; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa27c8598c0; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa25c6aa3f0; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='<IDEProvisioningBasicTeam 0x7fa27c52c670: teamID: C27P4G356D, teamName: Guangzhou alliance Mdt InfoTech Ltd>'>
+	<IDEDistributionContext: 0x7fa259d1f7e0; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fa26a8f6a90>', team='(null)'>
+	<IDEDistributionContext: 0x7fa252cc1eb0; archive = '<IDEArchive: 0x7fa24d833550>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fa25c6e3660>
+2018-03-07 09:30:56 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-03-07 09:30:56 +0000  Processing step: IDEDistributionCopyItemStep
+2018-03-07 09:30:56 +0000  Running /usr/bin/ditto '-V' '/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app'
+2018-03-07 09:30:56 +0000  >>> Copying /Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app 
+2018-03-07 09:30:56 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-03-07 09:30:56 +0000  62118 bytes for ./_CodeSignature/CodeResources
+2018-03-07 09:30:56 +0000  copying file ./AppIcon20x20@2x.png ... 
+2018-03-07 09:30:56 +0000  3670 bytes for ./AppIcon20x20@2x.png
+2018-03-07 09:30:56 +0000  copying file ./HHEmailSetCell.nib ... 
+2018-03-07 09:30:56 +0000  2731 bytes for ./HHEmailSetCell.nib
+copying file ./HHLoadCell.nib ... 
+2018-03-07 09:30:56 +0000  4686 bytes for ./HHLoadCell.nib
+2018-03-07 09:30:56 +0000  copying file ./HHCurrentMonthPlanCellOne.nib ... 
+2018-03-07 09:30:56 +0000  5309 bytes for ./HHCurrentMonthPlanCellOne.nib
+2018-03-07 09:30:56 +0000  copying file ./AppIcon20x20@3x.png ... 
+2018-03-07 09:30:56 +0000  5564 bytes for ./AppIcon20x20@3x.png
+2018-03-07 09:30:56 +0000  copying file ./HHpayBrandCell.nib/objects-11.0+.nib ... 
+2018-03-07 09:30:56 +0000  4073 bytes for ./HHpayBrandCell.nib/objects-11.0+.nib
+2018-03-07 09:30:56 +0000  copying file ./HHpayBrandCell.nib/runtime.nib ... 
+2018-03-07 09:30:56 +0000  4039 bytes for ./HHpayBrandCell.nib/runtime.nib
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png ... 
+2018-03-07 09:30:56 +0000  3003 bytes for ./UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings ... 
+2018-03-07 09:30:56 +0000  6685 bytes for ./UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings ... 
+2018-03-07 09:30:56 +0000  6503 bytes for ./UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png ... 
+2018-03-07 09:30:56 +0000  500 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png ... 
+2018-03-07 09:30:56 +0000  1562 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png ... 
+2018-03-07 09:30:56 +0000  1771 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png ... 
+2018-03-07 09:30:56 +0000  134 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png
+copying file ./UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png ... 
+2018-03-07 09:30:56 +0000  891 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png ... 
+2018-03-07 09:30:56 +0000  1624 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png ... 
+2018-03-07 09:30:56 +0000  2062 bytes for ./UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png ... 
+2018-03-07 09:30:56 +0000  1529 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png ... 
+2018-03-07 09:30:56 +0000  4203 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png ... 
+2018-03-07 09:30:56 +0000  1987 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png ... 
+2018-03-07 09:30:56 +0000  1370 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png ... 
+2018-03-07 09:30:56 +0000  1833 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png ... 
+2018-03-07 09:30:56 +0000  1867 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png ... 
+2018-03-07 09:30:56 +0000  2597 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png ... 
+2018-03-07 09:30:56 +0000  2391 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png ... 
+2018-03-07 09:30:56 +0000  1637 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png ... 
+2018-03-07 09:30:56 +0000  4145 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png ... 
+2018-03-07 09:30:56 +0000  1158 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png ... 
+2018-03-07 09:30:56 +0000  979 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png ... 
+2018-03-07 09:30:56 +0000  1720 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png ... 
+2018-03-07 09:30:56 +0000  1211 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png ... 
+2018-03-07 09:30:56 +0000  1127 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png ... 
+2018-03-07 09:30:56 +0000  1267 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png ... 
+2018-03-07 09:30:56 +0000  1442 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png ... 
+2018-03-07 09:30:56 +0000  1832 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png ... 
+2018-03-07 09:30:56 +0000  2320 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png ... 
+2018-03-07 09:30:56 +0000  813 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png ... 
+2018-03-07 09:30:56 +0000  1139 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png ... 
+2018-03-07 09:30:56 +0000  1468 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png ... 
+2018-03-07 09:30:56 +0000  1390 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png ... 
+2018-03-07 09:30:56 +0000  1628 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png ... 
+2018-03-07 09:30:56 +0000  2199 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png ... 
+2018-03-07 09:30:56 +0000  1692 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png ... 
+2018-03-07 09:30:56 +0000  1405 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png ... 
+2018-03-07 09:30:56 +0000  1506 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png ... 
+2018-03-07 09:30:56 +0000  1943 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png ... 
+2018-03-07 09:30:56 +0000  1179 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png ... 
+2018-03-07 09:30:56 +0000  2581 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png ... 
+2018-03-07 09:30:56 +0000  1564 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png ... 
+2018-03-07 09:30:56 +0000  1893 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png ... 
+2018-03-07 09:30:56 +0000  1749 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png ... 
+2018-03-07 09:30:56 +0000  2083 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png
+copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png ... 
+2018-03-07 09:30:56 +0000  3505 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png
+2018-03-07 09:30:56 +0000  copying file ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png ... 
+2018-03-07 09:30:56 +0000  1952 bytes for ./UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png
+2018-03-07 09:30:56 +0000  copying file ./HHClassCategoryCell.nib ... 
+2018-03-07 09:30:56 +0000  3960 bytes for ./HHClassCategoryCell.nib
+2018-03-07 09:30:56 +0000  copying file ./HHIncomeRecordCell.nib ... 
+2018-03-07 09:30:56 +0000  3607 bytes for ./HHIncomeRecordCell.nib
+copying file ./AppIcon60x60@2x.png ... 
+2018-03-07 09:30:56 +0000  11813 bytes for ./AppIcon60x60@2x.png
+copying file ./AppIcon29x29@2x.png ... 
+2018-03-07 09:30:56 +0000  5478 bytes for ./AppIcon29x29@2x.png
+2018-03-07 09:30:56 +0000  copying file ./CredictCard ... 
+2018-03-07 09:30:56 +0000  2787184 bytes for ./CredictCard
+copying file ./AppIcon40x40@3x.png ... 
+2018-03-07 09:30:56 +0000  11813 bytes for ./AppIcon40x40@3x.png
+copying file ./AppIcon40x40@2x.png ... 
+7889 bytes for ./AppIcon40x40@2x.png
+copying file ./UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings ... 
+8304 bytes for ./UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings
+copying file ./UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings ... 
+8304 bytes for ./UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings
+copying file ./AppIcon29x29@3x.png ... 
+8570 bytes for ./AppIcon29x29@3x.png
+copying file ./AppIcon60x60@3x.png ... 
+24803 bytes for ./AppIcon60x60@3x.png
+copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib ... 
+2340 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2018-03-07 09:30:56 +0000  2463 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2018-03-07 09:30:56 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib ... 
+2018-03-07 09:30:56 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib
+2018-03-07 09:30:56 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2018-03-07 09:30:56 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+2018-03-07 09:30:56 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-03-07 09:30:56 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-03-07 09:30:56 +0000  copying file ./HHTeamSalesCell.nib ... 
+2018-03-07 09:30:56 +0000  4740 bytes for ./HHTeamSalesCell.nib
+2018-03-07 09:30:56 +0000  copying file ./archived-expanded-entitlements.xcent ... 
+2018-03-07 09:30:56 +0000  246 bytes for ./archived-expanded-entitlements.xcent
+2018-03-07 09:30:56 +0000  copying file ./Address.plist ... 
+2018-03-07 09:30:56 +0000  38716 bytes for ./Address.plist
+2018-03-07 09:30:56 +0000  copying file ./Assets.car ... 
+2018-03-07 09:30:56 +0000  14119320 bytes for ./Assets.car
+2018-03-07 09:30:56 +0000  copying file ./mengyaProject.ipa ... 
+2018-03-07 09:30:56 +0000  35431920 bytes for ./mengyaProject.ipa
+2018-03-07 09:30:57 +0000  copying file ./HHYetBillCell.nib ... 
+4088 bytes for ./HHYetBillCell.nib
+copying file ./HHmillionCell.nib ... 
+3199 bytes for ./HHmillionCell.nib
+copying file ./HHWXLoginVC.nib/objects-11.0+.nib ... 
+8101 bytes for ./HHWXLoginVC.nib/objects-11.0+.nib
+copying file ./HHWXLoginVC.nib/runtime.nib ... 
+7430 bytes for ./HHWXLoginVC.nib/runtime.nib
+copying file ./Frameworks/Masonry.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/Masonry.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/Masonry.framework/Masonry ... 
+559520 bytes for ./Frameworks/Masonry.framework/Masonry
+copying file ./Frameworks/Masonry.framework/Info.plist ... 
+736 bytes for ./Frameworks/Masonry.framework/Info.plist
+copying file ./Frameworks/Aspects.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/Aspects.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/Aspects.framework/Aspects ... 
+278688 bytes for ./Frameworks/Aspects.framework/Aspects
+copying file ./Frameworks/Aspects.framework/Info.plist ... 
+736 bytes for ./Frameworks/Aspects.framework/Info.plist
+copying file ./Frameworks/MJRefresh.framework/_CodeSignature/CodeResources ... 
+3917 bytes for ./Frameworks/MJRefresh.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings ... 
+1186 bytes for ./Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings
+copying file ./Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings ... 
+1372 bytes for ./Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings
+copying file ./Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png ... 
+1033 bytes for ./Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png
+copying file ./Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings ... 
+773 bytes for ./Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings
+copying file ./Frameworks/MJRefresh.framework/MJRefresh ... 
+654656 bytes for ./Frameworks/MJRefresh.framework/MJRefresh
+copying file ./Frameworks/MJRefresh.framework/Info.plist ... 
+741 bytes for ./Frameworks/MJRefresh.framework/Info.plist
+copying file ./Frameworks/YYCache.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/YYCache.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/YYCache.framework/YYCache ... 
+508032 bytes for ./Frameworks/YYCache.framework/YYCache
+copying file ./Frameworks/YYCache.framework/Info.plist ... 
+736 bytes for ./Frameworks/YYCache.framework/Info.plist
+copying file ./Frameworks/YYCategories.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/YYCategories.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/YYCategories.framework/YYCategories ... 
+1206432 bytes for ./Frameworks/YYCategories.framework/YYCategories
+copying file ./Frameworks/YYCategories.framework/Info.plist ... 
+746 bytes for ./Frameworks/YYCategories.framework/Info.plist
+copying file ./Frameworks/MJExtension.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/MJExtension.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/MJExtension.framework/MJExtension ... 
+474352 bytes for ./Frameworks/MJExtension.framework/MJExtension
+copying file ./Frameworks/MJExtension.framework/Info.plist ... 
+745 bytes for ./Frameworks/MJExtension.framework/Info.plist
+copying file ./Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources ... 
+6110 bytes for ./Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD ... 
+501344 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png ... 
+365 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png ... 
+398 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHU
+2018-03-07 09:30:57 +0000  D.bundle/error@3x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png ... 
+8319 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png ... 
+4893 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png ... 
+306 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png ... 
+1200 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png ... 
+462 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png ... 
+714 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png ... 
+816 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png ... 
+184 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png ... 
+262 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png ... 
+1845 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png
+copying file ./Frameworks/SVProgressHUD.framework/Info.plist ... 
+748 bytes for ./Frameworks/SVProgressHUD.framework/Info.plist
+copying file ./Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/CocoaLumberjack.framework/CocoaLumberjack ... 
+905520 bytes for ./Frameworks/CocoaLumberjack.framework/CocoaLumberjack
+copying file ./Frameworks/CocoaLumberjack.framework/Info.plist ... 
+754 bytes for ./Frameworks/CocoaLumberjack.framework/Info.plist
+copying file ./Frameworks/SDCycleScrollView.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/SDCycleScrollView.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/SDCycleScrollView.framework/SDCycleScrollView ... 
+441408 bytes for ./Frameworks/SDCycleScrollView.framework/SDCycleScrollView
+copying file ./Frameworks/SDCycleScrollView.framework/Info.plist ... 
+759 bytes for ./Frameworks/SDCycleScrollView.framework/Info.plist
+copying file ./Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources ... 
+5102 bytes for ./Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png ... 
+1786 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png ... 
+2164 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png ... 
+1769 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png ... 
+1844 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png ... 
+1815 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png
+2018-03-07 09:30:57 +0000  copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png ... 
+2177 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png ... 
+1764 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png ... 
+1793 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png
+copying file ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager ... 
+832512 bytes for ./Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+copying file ./Frameworks/IQKeyboardManager.framework/Info.plist ... 
+758 bytes for ./Frameworks/IQKeyboardManager.framework/Info.plist
+copying file ./Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/MBProgressHUD.framework/MBProgressHUD ... 
+405120 bytes for ./Frameworks/MBProgressHUD.framework/MBProgressHUD
+copying file ./Frameworks/MBProgressHUD.framework/Info.plist ... 
+748 bytes for ./Frameworks/MBProgressHUD.framework/Info.plist
+copying file ./Frameworks/DZNEmptyDataSet.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/DZNEmptyDataSet.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/DZNEmptyDataSet.framework/Info.plist ... 
+754 bytes for ./Frameworks/DZNEmptyDataSet.framework/Info.plist
+copying file ./Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet ... 
+311648 bytes for ./Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet
+copying file ./Frameworks/BlocksKit.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/BlocksKit.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/BlocksKit.framework/BlocksKit ... 
+999600 bytes for ./Frameworks/BlocksKit.framework/BlocksKit
+copying file ./Frameworks/BlocksKit.framework/Info.plist ... 
+740 bytes for ./Frameworks/BlocksKit.framework/Info.plist
+copying file ./Frameworks/SDWebImage.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/SDWebImage.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/SDWebImage.framework/SDWebImage ... 
+1059360 bytes for ./Frameworks/SDWebImage.framework/SDWebImage
+copying file ./Frameworks/SDWebImage.framework/Info.plist ... 
+742 bytes for ./Frameworks/SDWebImage.framework/Info.plist
+copying file ./Frameworks/AFNetworking.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/AFNetworking.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/AFNetworking.framework/AFNetworking ... 
+1421552 bytes for ./Frameworks/AFNetworking.framework/AFNetworking
+copying file ./Frameworks/AFNetworking.framework/Info.plist ... 
+746 bytes for ./Frameworks/AFNetworking.framework/Info.plist
+copying file ./Frameworks/JSONModel.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/JSONModel.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/JSONModel.framework/JSONModel ... 
+591664 bytes for ./Frameworks/JSONModel.framework/JSONModel
+copying file ./Frameworks/JSONModel.framework/Info.plist ... 
+740 bytes for ./Frameworks/JSONModel.framework/Info.plist
+copying file ./Frameworks/WHC_AutoLayoutKit.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Frameworks/WHC_AutoLayoutKit.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit ... 
+801456 bytes for ./Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit
+copying file ./Frameworks/WHC_AutoLayoutKit.framework/Info.plist ... 
+758 bytes for ./Frameworks/WHC_AutoLayoutKit.framework/Info.plist
+copying file ./embedded.mobileprovision ... 
+8140 bytes for ./embedded.mobileprovision
+copying file ./HHCanWithDrawCell.nib/objects-11.0+.nib ... 
+5071 bytes for ./HHCanWithDrawCel
+2018-03-07 09:30:57 +0000  2018-03-07 09:30:57 +0000  /usr/bin/ditto exited with 0
+
+2018-03-07 09:30:57 +0000  l.nib/objects-11.0+.nib
+copying file ./HHCanWithDrawCell.nib/runtime.nib ... 
+4159 bytes for ./HHCanWithDrawCell.nib/runtime.nib
+copying file ./Info.plist ... 
+1859 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+copying file ./HHTodayPlanCell1.nib ... 
+5740 bytes for ./HHTodayPlanCell1.nib
+copying file ./HHBankListCell.nib ... 
+3585 bytes for ./HHBankListCell.nib
+2018-03-07 09:30:57 +0000  
+2018-03-07 09:30:57 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c85b6e0 'org.cocoapods.AFNetworking' '<DVTFilePath:0x7fa27c8571f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/AFNetworking.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c86f930 'org.cocoapods.Aspects' '<DVTFilePath:0x7fa27c81b360:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Aspects.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa25baa3190 'org.cocoapods.BlocksKit' '<DVTFilePath:0x7fa27c84ec10:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/BlocksKit.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c861ad0 'org.cocoapods.CocoaLumberjack' '<DVTFilePath:0x7fa259d17ed0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/CocoaLumberjack.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa25baaaa20 'org.cocoapods.DZNEmptyDataSet' '<DVTFilePath:0x7fa27c849830:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/DZNEmptyDataSet.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c864180 'org.cocoapods.IQKeyboardManager' '<DVTFilePath:0x7fa27c83abd0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/IQKeyboardManager.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c526550 'org.cocoapods.JSONModel' '<DVTFilePath:0x7fa256e7e1c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/JSONModel.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c860f70 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fa27c8458c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MBProgressHUD.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c85cc50 'org.cocoapods.MJExtension' '<DVTFilePath:0x7fa27c82d8c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJExtension.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c526c70 'org.cocoapods.MJRefresh' '<DVTFilePath:0x7fa27c81ef30:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJRefresh.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa269b74c20 'org.cocoapods.Masonry' '<DVTFilePath:0x7fa27c817ae0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Masonry.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa25bad1040 'org.cocoapods.SDCycleScrollView' '<DVTFilePath:0x7fa25ba0a870:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDCycleScrollView.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c867bf0 'org.cocoapods.SDWebImage' '<DVTFilePath:0x7fa27c852d80:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDWebImage.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c528960 'org.cocoapods.SVProgressHUD' '<DVTFilePath:0x7fa25ba68c20:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SVProgressHUD.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c527490 'org.cocoapods.WHC-AutoLayoutKit' '<DVTFilePath:0x7fa25ba83eb0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27c871f10 'org.cocoapods.YYCache' '<DVTFilePath:0x7fa27c8251f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCache.framework'>'>
+2018-03-07 09:30:57 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa27ca0c480 'org.cocoapods.YYCategories' '<DVTFilePath:0x7fa27c8296f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCategories.framework'>'>
+2018-03-07 09:30:57 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-03-07 09:30:57 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-03-07 09:30:57 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-03-07 09:30:57 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root' '--json' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool-json-filepath-71KyxK' '--compile-bitcode' '--output' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/IDEIPAProcessor.AppThinning.HkY' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-03-07 09:30:57 +0000  ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2497: warning: key :hasBitcode is duplicated and overwritten on line 2499
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2018-03-07 09:30:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-03-07 09:30:57 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-03-07 09:30:57 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-03-07 09:30:57 +0000  OS X 10.13 17A405
+ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/", "LOGNAME"=>"user", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/user", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.F5FRSOn9iR/Render", "USER"=>"user", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.nlvSJuD5nF/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.2988", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x19:0x34"}
+ARGV: ["/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root", "--json", "/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool-json-filepath-71KyxK", "--compile-bitcode", "--output", "/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/IDEIPAProcessor.AppThinning.HkY", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:101: warning: method redefined; discarding old to_h
+2018-03-07 09:30:57 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-03-07 09:30:57 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-03-07 09:30:57 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-03-07 09:30:57 +0000  Scanning IPA...
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature Masonry
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15853 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Masonry Masonry
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15856 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature Aspects
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15874 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Aspects Aspects
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15875 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature MJRefresh
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15891 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) MJRefresh.bundle MJRefresh
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15892 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) MJRefresh MJRefresh
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15893 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature YYCache
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15906 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) YYCache YYCache
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15907 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature YYCategories
+2018-03-07 09:30:58 +0000      /usr/bin/python exited with pid 15919 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:58 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) YYCategories YYCategories
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15920 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature MJExtension
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15932 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) MJExtension MJExtension
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15933 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature SVProgressHUD
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15957 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) SVProgressHUD SVProgressHUD
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15959 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature CocoaLumberjack
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15975 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CocoaLumberjack CocoaLumberjack
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15981 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature SDCycleScrollView
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15994 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) SDCycleScrollView SDCycleScrollView
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 15995 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature IQKeyboardManager
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 16025 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) IQKeyboardManager.bundle IQKeyboardManager
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 16026 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) IQKeyboardManager IQKeyboardManager
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 16027 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature MBProgressHUD
+2018-03-07 09:30:59 +0000      /usr/bin/python exited with pid 16048 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:30:59 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) MBProgressHUD MBProgressHUD
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16049 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature DZNEmptyDataSet
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16062 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist DZNEmptyDataSet
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16065 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) DZNEmptyDataSet DZNEmptyDataSet
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16069 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature BlocksKit
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16085 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) BlocksKit BlocksKit
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16086 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature SDWebImage
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16099 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) SDWebImage SDWebImage
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16100 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature AFNetworking
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16121 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AFNetworking AFNetworking
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16122 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature JSONModel
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16135 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JSONModel JSONModel
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16140 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature WHC_AutoLayoutKit
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16158 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) WHC_AutoLayoutKit WHC_AutoLayoutKit
+2018-03-07 09:31:00 +0000      /usr/bin/python exited with pid 16159 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:00 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16172 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon20x20@2x.png CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16177 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) HHEmailSetCell.nib CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16179 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) HHLoadCell.nib CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16180 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) HHCurrentMonthPlanCellOne.nib CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16181 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon20x20@3x.png CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16183 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) HHpayBrandCell.nib CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16189 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) UMSocialSDKResources.bundle CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16193 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) HHClassCategoryCell.nib CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16195 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) HHIncomeRecordCell.nib CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16196 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon60x60@2x.png CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16197 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) AppIcon29x29@2x.png CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16201 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CredictCard CredictCard
+2018-03-07 09:31:01 +0000      /usr/bin/python exited with pid 16206 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:01 +0000  Complete LinkageGraph:
+    CredictCard.app/CredictCard arm64 ->
+        CredictCard.app/Frameworks/AFNetworking.framework/AFNetworking arm64
+        CredictCard.app/Frameworks/Aspects.framework/Aspects arm64
+        CredictCard.app/Frameworks/BlocksKit.framework/BlocksKit arm64
+        CredictCard.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack arm64
+        CredictCard.app/Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet arm64
+        CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager arm64
+        CredictCard.app/Frameworks/JSONModel.framework/JSONModel arm64
+        CredictCard.app/Frameworks/MBProgressHUD.framework/MBProgressHUD arm64
+        CredictCard.app/Frameworks/MJExtension.framework/MJExtension arm64
+        CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh arm64
+        CredictCard.app/Frameworks/Masonry.framework/Masonry arm64
+        CredictCard.app/Frameworks/SDCycleScrollView.framework/SDCycleScrollView arm64
+        CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage arm64
+        CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD arm64
+        CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit arm64
+        CredictCard.app/Frameworks/YYCache.framework/YYCache arm64
+        CredictCard.app/Frameworks/YYCategories.framework/YYCategories arm64
+    CredictCard.app/Frameworks/AFNetworking.framework/AFNetworking arm64 ->
+    
+    CredictCard.app/Frameworks/Aspects.framework/Aspects arm64 ->
+    
+    CredictCard.app/Frameworks/BlocksKit.framework/BlocksKit arm64 ->
+    
+    CredictCard.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack arm64 ->
+    
+    CredictCard.app/Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet arm64 ->
+    
+    CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager arm64 ->
+    
+    CredictCard.app/Frameworks/JSONModel.framework/JSONModel arm64 ->
+    
+    CredictCard.app/Frameworks/MBProgressHUD.framework/MBProgressHUD arm64 ->
+    
+    CredictCard.app/Frameworks/MJExtension.framework/MJExtension arm64 ->
+    
+    CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh arm64 ->
+    
+    CredictCard.app/Frameworks/Masonry.framework/Masonry arm64 ->
+    
+    CredictCard.app/Frameworks/SDCycleScrollView.framework/SDCycleScrollView arm64 ->
+        CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage arm64
+    CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage arm64 ->
+    
+    CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD arm64 ->
+    
+    CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit arm64 ->
+    
+    CredictCard.app/Frameworks/YYCache.framework/YYCache arm64 ->
+    
+    CredictCard.app/Frameworks/YYCategories.framework/YYCategories arm64 ->
+2018-03-07 09:31:01 +0000  Validating IPA structure...
+2018-03-07 09:31:06 +0000  Compiling bitcode...
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/Masonry.framework/Masonry /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/Masonry.framework/Masonry
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16682 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/Aspects.framework/Aspects /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/Aspects.framework/Aspects
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16687 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16691 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/YYCache.framework/YYCache /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/YYCache.framework/YYCache
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16695 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/YYCategories.framework/YYCategories /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/YYCategories.framework/YYCategories
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16699 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/MJExtension.framework/MJExtension /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/MJExtension.framework/MJExtension
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16703 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16707 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16711 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/SDCycleScrollView /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/SDCycleScrollView
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16715 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16719 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/MBProgressHUD /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/MBProgressHUD
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16723 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16728 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/BlocksKit.framework/BlocksKit /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/BlocksKit.framework/BlocksKit
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16732 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16736 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/AFNetworking.framework/AFNetworking /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/AFNetworking.framework/AFNetworking
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16740 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/JSONModel.framework/JSONModel /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/JSONModel.framework/JSONModel
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16744 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:06 +0000      /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -r -o /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/ipatool20180307-15697-1qyajd/thinned/arm64/Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit
+2018-03-07 09:31:06 +0000          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with pid 16748 exit 0
+        Stdout:
+        
+        Stderr:
+2018-03-07 09:31:07 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/IDEIPAProcessor.AppThinning.HkY/universal
+  Copying CredictCard.app output payload directory
+2018-03-07 09:31:07 +0000  /Library/Ruby/Gems/2.3.0/gems/CFPropertyList-2.3.6/lib/cfpropertylist/rbCFPropertyList.rb:394: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-03-07 09:31:07 +0000  2018-03-07 09:31:07 +0000  
+
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  2018-03-07 09:31:07 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+
+2018-03-07 09:31:07 +0000  2018-03-07 09:31:07 +0000  
+
+2018-03-07 09:31:07 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+        "/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Assets.car"
+    );
+    universalIPA =     {
+        path = "/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/IDEIPAProcessor.AppThinning.HkY/universal";
+    };
+}
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionSymbolsStep
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionAppThinningStep
+2018-03-07 09:31:07 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionODRStep
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c85b6e0 'org.cocoapods.AFNetworking' '<DVTFilePath:0x7fa27c8571f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/AFNetworking.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c86f930 'org.cocoapods.Aspects' '<DVTFilePath:0x7fa27c81b360:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Aspects.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa25baa3190 'org.cocoapods.BlocksKit' '<DVTFilePath:0x7fa27c84ec10:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/BlocksKit.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c861ad0 'org.cocoapods.CocoaLumberjack' '<DVTFilePath:0x7fa259d17ed0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/CocoaLumberjack.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa25baaaa20 'org.cocoapods.DZNEmptyDataSet' '<DVTFilePath:0x7fa27c849830:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/DZNEmptyDataSet.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c864180 'org.cocoapods.IQKeyboardManager' '<DVTFilePath:0x7fa27c83abd0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/IQKeyboardManager.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c526550 'org.cocoapods.JSONModel' '<DVTFilePath:0x7fa256e7e1c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/JSONModel.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c860f70 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fa27c8458c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MBProgressHUD.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c85cc50 'org.cocoapods.MJExtension' '<DVTFilePath:0x7fa27c82d8c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJExtension.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c526c70 'org.cocoapods.MJRefresh' '<DVTFilePath:0x7fa27c81ef30:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJRefresh.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa269b74c20 'org.cocoapods.Masonry' '<DVTFilePath:0x7fa27c817ae0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Masonry.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa25bad1040 'org.cocoapods.SDCycleScrollView' '<DVTFilePath:0x7fa25ba0a870:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDCycleScrollView.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c867bf0 'org.cocoapods.SDWebImage' '<DVTFilePath:0x7fa27c852d80:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDWebImage.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c528960 'org.cocoapods.SVProgressHUD' '<DVTFilePath:0x7fa25ba68c20:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SVProgressHUD.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c527490 'org.cocoapods.WHC-AutoLayoutKit' '<DVTFilePath:0x7fa25ba83eb0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27c871f10 'org.cocoapods.YYCache' '<DVTFilePath:0x7fa27c8251f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCache.framework'>'>
+2018-03-07 09:31:07 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa27ca0c480 'org.cocoapods.YYCategories' '<DVTFilePath:0x7fa27c8296f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCategories.framework'>'>
+2018-03-07 09:31:07 +0000  Running /usr/bin/xattr '-crs' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app'
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  /usr/bin/xattr exited with 02018-03-07 09:31:07 +0000  
+
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  Processing step: IDEDistributionCodesignStep
+2018-03-07 09:31:07 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c85b6e0 'org.cocoapods.AFNetworking' '<DVTFilePath:0x7fa27c8571f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/AFNetworking.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa265202970>: {
+}
+2018-03-07 09:31:07 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c85b6e0 'org.cocoapods.AFNetworking' '<DVTFilePath:0x7fa27c8571f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/AFNetworking.framework'>'>: {
+}
+2018-03-07 09:31:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c85b6e0 'org.cocoapods.AFNetworking' '<DVTFilePath:0x7fa27c8571f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/AFNetworking.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsbnK8XE
+2018-03-07 09:31:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsbnK8XE' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/AFNetworking.framework'
+2018-03-07 09:31:07 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/AFNetworking.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.AFNetworking]
+2018-03-07 09:31:07 +0000  2018-03-07 09:31:07 +0000  
+
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  2018-03-07 09:31:07 +0000  
+
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:07 +0000  
+2018-03-07 09:31:07 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c86f930 'org.cocoapods.Aspects' '<DVTFilePath:0x7fa27c81b360:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Aspects.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa25eda8ba0>: {
+}
+2018-03-07 09:31:07 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c86f930 'org.cocoapods.Aspects' '<DVTFilePath:0x7fa27c81b360:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Aspects.framework'>'>: {
+}
+2018-03-07 09:31:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c86f930 'org.cocoapods.Aspects' '<DVTFilePath:0x7fa27c81b360:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Aspects.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsTlOSyR
+2018-03-07 09:31:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsTlOSyR' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/Aspects.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/Aspects.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.Aspects]
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa25baa3190 'org.cocoapods.BlocksKit' '<DVTFilePath:0x7fa27c84ec10:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/BlocksKit.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa26cabb0a0>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa25baa3190 'org.cocoapods.BlocksKit' '<DVTFilePath:0x7fa27c84ec10:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/BlocksKit.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa25baa3190 'org.cocoapods.BlocksKit' '<DVTFilePath:0x7fa27c84ec10:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/BlocksKit.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementssPnCKU
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementssPnCKU' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/BlocksKit.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/BlocksKit.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.BlocksKit]
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c861ad0 'org.cocoapods.CocoaLumberjack' '<DVTFilePath:0x7fa259d17ed0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/CocoaLumberjack.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa251d9ad20>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c861ad0 'org.cocoapods.CocoaLumberjack' '<DVTFilePath:0x7fa259d17ed0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/CocoaLumberjack.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c861ad0 'org.cocoapods.CocoaLumberjack' '<DVTFilePath:0x7fa259d17ed0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/CocoaLumberjack.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsOEe6KK
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsOEe6KK' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.CocoaLumberjack]
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa25baaaa20 'org.cocoapods.DZNEmptyDataSet' '<DVTFilePath:0x7fa27c849830:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/DZNEmptyDataSet.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa2622e9dd0>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa25baaaa20 'org.cocoapods.DZNEmptyDataSet' '<DVTFilePath:0x7fa27c849830:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/DZNEmptyDataSet.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa25baaaa20 'org.cocoapods.DZNEmptyDataSet' '<DVTFilePath:0x7fa27c849830:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/DZNEmptyDataSet.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsmNtDxI
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsmNtDxI' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.DZNEmptyDataSet]
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c864180 'org.cocoapods.IQKeyboardManager' '<DVTFilePath:0x7fa27c83abd0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/IQKeyboardManager.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa26b3cfe20>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c864180 'org.cocoapods.IQKeyboardManager' '<DVTFilePath:0x7fa27c83abd0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/IQKeyboardManager.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c864180 'org.cocoapods.IQKeyboardManager' '<DVTFilePath:0x7fa27c83abd0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/IQKeyboardManager.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementssn2fkw
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementssn2fkw' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.IQKeyboardManager]
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c526550 'org.cocoapods.JSONModel' '<DVTFilePath:0x7fa256e7e1c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/JSONModel.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa2599b6390>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c526550 'org.cocoapods.JSONModel' '<DVTFilePath:0x7fa256e7e1c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/JSONModel.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c526550 'org.cocoapods.JSONModel' '<DVTFilePath:0x7fa256e7e1c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/JSONModel.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsy4EHQA
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsy4EHQA' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/JSONModel.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/JSONModel.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.JSONModel]
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c860f70 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fa27c8458c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MBProgressHUD.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa2512e2240>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c860f70 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fa27c8458c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MBProgressHUD.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c860f70 'org.cocoapods.MBProgressHUD' '<DVTFilePath:0x7fa27c8458c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MBProgressHUD.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsy10WIC
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsy10WIC' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/MBProgressHUD.framework'
+2018-03-07 09:31:08 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/MBProgressHUD.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.MBProgressHUD]
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  2018-03-07 09:31:08 +0000  
+
+2018-03-07 09:31:08 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:08 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c85cc50 'org.cocoapods.MJExtension' '<DVTFilePath:0x7fa27c82d8c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJExtension.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa259016330>: {
+}
+2018-03-07 09:31:08 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c85cc50 'org.cocoapods.MJExtension' '<DVTFilePath:0x7fa27c82d8c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJExtension.framework'>'>: {
+}
+2018-03-07 09:31:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c85cc50 'org.cocoapods.MJExtension' '<DVTFilePath:0x7fa27c82d8c0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJExtension.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsEkoGwR
+2018-03-07 09:31:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsEkoGwR' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/MJExtension.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/MJExtension.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.MJExtension]
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c526c70 'org.cocoapods.MJRefresh' '<DVTFilePath:0x7fa27c81ef30:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJRefresh.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa262270950>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c526c70 'org.cocoapods.MJRefresh' '<DVTFilePath:0x7fa27c81ef30:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJRefresh.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c526c70 'org.cocoapods.MJRefresh' '<DVTFilePath:0x7fa27c81ef30:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/MJRefresh.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsik2SIQ
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsik2SIQ' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/MJRefresh.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/MJRefresh.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.MJRefresh]
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa269b74c20 'org.cocoapods.Masonry' '<DVTFilePath:0x7fa27c817ae0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Masonry.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa272b8d1a0>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa269b74c20 'org.cocoapods.Masonry' '<DVTFilePath:0x7fa27c817ae0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Masonry.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa269b74c20 'org.cocoapods.Masonry' '<DVTFilePath:0x7fa27c817ae0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/Masonry.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsL8qDVc
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsL8qDVc' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/Masonry.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/Masonry.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.Masonry]
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa25bad1040 'org.cocoapods.SDCycleScrollView' '<DVTFilePath:0x7fa25ba0a870:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDCycleScrollView.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa24e2a0fa0>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa25bad1040 'org.cocoapods.SDCycleScrollView' '<DVTFilePath:0x7fa25ba0a870:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDCycleScrollView.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa25bad1040 'org.cocoapods.SDCycleScrollView' '<DVTFilePath:0x7fa25ba0a870:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDCycleScrollView.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementscMfSe6
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementscMfSe6' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.SDCycleScrollView]
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c867bf0 'org.cocoapods.SDWebImage' '<DVTFilePath:0x7fa27c852d80:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDWebImage.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa26a5429c0>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c867bf0 'org.cocoapods.SDWebImage' '<DVTFilePath:0x7fa27c852d80:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDWebImage.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c867bf0 'org.cocoapods.SDWebImage' '<DVTFilePath:0x7fa27c852d80:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SDWebImage.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsuSFcj3
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsuSFcj3' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/SDWebImage.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/SDWebImage.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.SDWebImage]
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c528960 'org.cocoapods.SVProgressHUD' '<DVTFilePath:0x7fa25ba68c20:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SVProgressHUD.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa25fcb62c0>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c528960 'org.cocoapods.SVProgressHUD' '<DVTFilePath:0x7fa25ba68c20:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SVProgressHUD.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c528960 'org.cocoapods.SVProgressHUD' '<DVTFilePath:0x7fa25ba68c20:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/SVProgressHUD.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsTlhIn7
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsTlhIn7' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/SVProgressHUD.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/SVProgressHUD.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.SVProgressHUD]
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c527490 'org.cocoapods.WHC-AutoLayoutKit' '<DVTFilePath:0x7fa25ba83eb0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa27b61a830>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c527490 'org.cocoapods.WHC-AutoLayoutKit' '<DVTFilePath:0x7fa25ba83eb0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c527490 'org.cocoapods.WHC-AutoLayoutKit' '<DVTFilePath:0x7fa25ba83eb0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsr9z5yO
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsr9z5yO' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework'
+2018-03-07 09:31:09 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.WHC-AutoLayoutKit]
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  
+2018-03-07 09:31:09 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:09 +0000  2018-03-07 09:31:09 +0000  
+
+2018-03-07 09:31:09 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c871f10 'org.cocoapods.YYCache' '<DVTFilePath:0x7fa27c8251f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCache.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa2595707a0>: {
+}
+2018-03-07 09:31:09 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c871f10 'org.cocoapods.YYCache' '<DVTFilePath:0x7fa27c8251f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCache.framework'>'>: {
+}
+2018-03-07 09:31:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c871f10 'org.cocoapods.YYCache' '<DVTFilePath:0x7fa27c8251f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCache.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsX7GdsA
+2018-03-07 09:31:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlementsX7GdsA' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/YYCache.framework'
+2018-03-07 09:31:10 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/YYCache.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.YYCache]
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  2018-03-07 09:31:10 +0000  /usr/bin/codesign exited with 0
+
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27ca0c480 'org.cocoapods.YYCategories' '<DVTFilePath:0x7fa27c8296f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCategories.framework'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa27c52fbe0>: {
+}
+2018-03-07 09:31:10 +0000  Entitlements for <IDEDistributionItem: 0x7fa27ca0c480 'org.cocoapods.YYCategories' '<DVTFilePath:0x7fa27c8296f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCategories.framework'>'>: {
+}
+2018-03-07 09:31:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27ca0c480 'org.cocoapods.YYCategories' '<DVTFilePath:0x7fa27c8296f0:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app/Frameworks/YYCategories.framework'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlements3vJ7rz
+2018-03-07 09:31:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlements3vJ7rz' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/YYCategories.framework'
+2018-03-07 09:31:10 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app/Frameworks/YYCategories.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.YYCategories]
+2018-03-07 09:31:10 +0000  2018-03-07 09:31:10 +0000  
+
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+
+2018-03-07 09:31:10 +0000  /usr/bin/codesign exited with 0
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fa27c52e390 'creditNoticeTest.com' '<DVTFilePath:0x7fa254160850:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fa270c0de90>: {
+}
+2018-03-07 09:31:10 +0000  Entitlements for <IDEDistributionItem: 0x7fa27c52e390 'creditNoticeTest.com' '<DVTFilePath:0x7fa254160850:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app'>'>: {
+    "application-identifier" = "C27P4G356D.creditNoticeTest.com";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = C27P4G356D;
+    "get-task-allow" = 0;
+}
+2018-03-07 09:31:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa27c52e390 'creditNoticeTest.com' '<DVTFilePath:0x7fa254160850:'/Users/user/Library/Developer/Xcode/Archives/2018-03-07/CredictCard 2018-3-7 下午5.28.xcarchive/Products/Applications/CredictCard.app'>'> to: /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlements25U6Vk
+2018-03-07 09:31:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '8453D6F8BFA097814E5AB2DC319A40F47BEEC5AA' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/entitlements25U6Vk' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app'
+2018-03-07 09:31:10 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app: replacing existing signature
+2018-03-07 09:31:10 +0000  /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root/Payload/CredictCard.app: signed app bundle with Mach-O thin (arm64) [creditNoticeTest.com]
+2018-03-07 09:31:10 +0000  2018-03-07 09:31:10 +0000  
+
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  
+2018-03-07 09:31:10 +0000  2018-03-07 09:31:10 +0000  /usr/bin/codesign exited with 0
+
+2018-03-07 09:31:10 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-03-07 09:31:10 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-03-07 09:31:10 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root' '/var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Packages/CredictCard.ipa'
+2018-03-07 09:31:10 +0000  >>> Copying /var/folders/vz/3l7hpyhj38g5v7thfn3nz5c40000gn/T/XcodeDistPipeline.EK4/Root 
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:10 +0000  62118 bytes for ./Payload/CredictCard.app/_CodeSignature/CodeResources
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon20x20@2x.png ... 
+2018-03-07 09:31:10 +0000  3670 bytes for ./Payload/CredictCard.app/AppIcon20x20@2x.png
+copying file ./Payload/CredictCard.app/HHEmailSetCell.nib ... 
+2018-03-07 09:31:10 +0000  2731 bytes for ./Payload/CredictCard.app/HHEmailSetCell.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/HHLoadCell.nib ... 
+2018-03-07 09:31:10 +0000  4686 bytes for ./Payload/CredictCard.app/HHLoadCell.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/HHCurrentMonthPlanCellOne.nib ... 
+2018-03-07 09:31:10 +0000  5309 bytes for ./Payload/CredictCard.app/HHCurrentMonthPlanCellOne.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon20x20@3x.png ... 
+2018-03-07 09:31:10 +0000  5564 bytes for ./Payload/CredictCard.app/AppIcon20x20@3x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/HHpayBrandCell.nib/objects-11.0+.nib ... 
+2018-03-07 09:31:10 +0000  4073 bytes for ./Payload/CredictCard.app/HHpayBrandCell.nib/objects-11.0+.nib
+copying file ./Payload/CredictCard.app/HHpayBrandCell.nib/runtime.nib ... 
+2018-03-07 09:31:10 +0000  4039 bytes for ./Payload/CredictCard.app/HHpayBrandCell.nib/runtime.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png ... 
+2018-03-07 09:31:10 +0000  3003 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialWaterMark/umsocial_defaultwatermark.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings ... 
+2018-03-07 09:31:10 +0000  6685 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/zh-Hans.lproj/UMSocialLocalizable.strings
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings ... 
+2018-03-07 09:31:10 +0000  6503 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/en.lproj/UMSocialLocalizable.strings
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png ... 
+2018-03-07 09:31:10 +0000  500 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_close@2x.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png ... 
+2018-03-07 09:31:10 +0000  1562 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_url_image@2x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png ... 
+1771 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_url_music@2x.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png ... 
+2018-03-07 09:31:10 +0000  134 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_add_friend_off@2x.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png ... 
+2018-03-07 09:31:10 +0000  891 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_delete_image_button_normal@2x.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png ... 
+2018-03-07 09:31:10 +0000  1624 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_nav_button_send@2x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png ... 
+2018-03-07 09:31:10 +0000  2062 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/Buttons/UMS_url_video@2x.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png ... 
+1529 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_renren.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png ... 
+4203 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_default.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png ... 
+2018-03-07 09:31:10 +0000  1987 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pinterest.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png ... 
+2018-03-07 09:31:10 +0000  1370 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_alipay.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png ... 
+2018-03-07 09:31:10 +0000  1833 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_session.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png ... 
+2018-03-07 09:31:10 +0000  1867 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_vkontakte.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png ... 
+2018-03-07 09:31:10 +0000  2597 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tim.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png ... 
+2018-03-07 09:31:10 +0000  2391 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_session.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png ... 
+2018-03-07 09:31:10 +0000  1637 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_linkedin.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png ... 
+2018-03-07 09:31:10 +0000  4145 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_favorite.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png ... 
+2018-03-07 09:31:10 +0000  1158 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_youdaonote.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png ... 
+2018-03-07 09:31:10 +0000  979 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_flickr.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png ... 
+2018-03-07 09:31:10 +0000  1720 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_line.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png ... 
+2018-03-07 09:31:10 +0000  1211 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_email.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png ... 
+2018-03-07 09:31:10 +0000  1127 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sms.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png ... 
+2018-03-07 09:31:10 +0000  1267 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_evernote.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png ... 
+2018-03-07 09:31:10 +0000  1442 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_twitter.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png ... 
+2018-03-07 09:31:10 +0000  1832 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_whatsapp.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png ... 
+2018-03-07 09:31:10 +0000  2320 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_googleplus.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png ... 
+2018-03-07 09:31:10 +0000  813 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_douban.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png ... 
+2018-03-07 09:31:10 +0000  1139 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_lw_timeline.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png ... 
+2018-03-07 09:31:10 +0000  1468 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebook.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png ... 
+2018-03-07 09:31:10 +0000  1390 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dingding.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png ... 
+2018-03-07 09:31:10 +0000  1628 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png ... 
+2018-03-07 09:31:10 +0000  2199 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_yixin_timeline.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png ... 
+1692 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_dropbox.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png ... 
+2018-03-07 09:31:10 +0000  1405 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_pocket.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png ... 
+1506 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_timeline.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png ... 
+2018-03-07 09:31:10 +0000  1943 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tencentWB.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png ... 
+1179 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_wechat_favorite.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png ... 
+2018-03-07 09:31:10 +0000  2581 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_sina.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png ... 
+2018-03-07 09:31:10 +0000  1564 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_tumblr.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png ... 
+2018-03-07 09:31:10 +0000  1893 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_kakaoTalk.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png ... 
+2018-03-07 09:31:10 +0000  1749 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_facebookmessenger.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png ... 
+2018-03-07 09:31:10 +0000  2083 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qzone.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png ... 
+2018-03-07 09:31:10 +0000  3505 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_qq.png
+copying file ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png ... 
+2018-03-07 09:31:10 +0000  1952 bytes for ./Payload/CredictCard.app/UMSocialSDKResources.bundle/UMSocialPlatformTheme/default/umsocial_instagram.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/HHClassCategoryCell.nib ... 
+2018-03-07 09:31:10 +0000  3960 bytes for ./Payload/CredictCard.app/HHClassCategoryCell.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/HHIncomeRecordCell.nib ... 
+2018-03-07 09:31:10 +0000  3607 bytes for ./Payload/CredictCard.app/HHIncomeRecordCell.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon60x60@2x.png ... 
+2018-03-07 09:31:10 +0000  11813 bytes for ./Payload/CredictCard.app/AppIcon60x60@2x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon29x29@2x.png ... 
+2018-03-07 09:31:10 +0000  5478 bytes for ./Payload/CredictCard.app/AppIcon29x29@2x.png
+copying file ./Payload/CredictCard.app/CredictCard ... 
+2018-03-07 09:31:10 +0000  2787184 bytes for ./Payload/CredictCard.app/CredictCard
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon40x40@3x.png ... 
+2018-03-07 09:31:10 +0000  11813 bytes for ./Payload/CredictCard.app/AppIcon40x40@3x.png
+copying file ./Payload/CredictCard.app/AppIcon40x40@2x.png ... 
+2018-03-07 09:31:10 +0000  7889 bytes for ./Payload/CredictCard.app/AppIcon40x40@2x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings ... 
+2018-03-07 09:31:10 +0000  8304 bytes for ./Payload/CredictCard.app/UMSocialSDKPromptResources.bundle/zh-Hans.lproj/UMSocialPromptLocalizable.strings
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings ... 
+2018-03-07 09:31:10 +0000  8304 bytes for ./Payload/CredictCard.app/UMSocialSDKPromptResources.bundle/en.lproj/UMSocialPromptLocalizable.strings
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon29x29@3x.png ... 
+2018-03-07 09:31:10 +0000  8570 bytes for ./Payload/CredictCard.app/AppIcon29x29@3x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/AppIcon60x60@3x.png ... 
+2018-03-07 09:31:10 +0000  24803 bytes for ./Payload/CredictCard.app/AppIcon60x60@3x.png
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib ... 
+2018-03-07 09:31:10 +0000  2340 bytes for ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib
+copying file ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2018-03-07 09:31:10 +0000  2463 bytes for ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib ... 
+2018-03-07 09:31:10 +0000  832 bytes for ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2018-03-07 09:31:10 +0000  832 bytes for ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-03-07 09:31:10 +0000  258 bytes for ./Payload/CredictCard.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/HHTeamSalesCell.nib ... 
+2018-03-07 09:31:10 +0000  4740 bytes for ./Payload/CredictCard.app/HHTeamSalesCell.nib
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/archived-expanded-entitlements.xcent ... 
+246 bytes for ./Payload/CredictCard.app/archived-expanded-entitlements.xcent
+copying file ./Payload/CredictCard.app/Address.plist ... 
+2018-03-07 09:31:10 +0000  38716 bytes for ./Payload/CredictCard.app/Address.plist
+2018-03-07 09:31:10 +0000  copying file ./Payload/CredictCard.app/Assets.car ... 
+2018-03-07 09:31:11 +0000  14119320 bytes for ./Payload/CredictCard.app/Assets.car
+copying file ./Payload/CredictCard.app/mengyaProject.ipa ... 
+2018-03-07 09:31:12 +0000  35431920 bytes for ./Payload/CredictCard.app/mengyaProject.ipa
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/HHYetBillCell.nib ... 
+2018-03-07 09:31:12 +0000  4088 bytes for ./Payload/CredictCard.app/HHYetBillCell.nib
+copying file ./Payload/CredictCard.app/HHmillionCell.nib ... 
+2018-03-07 09:31:12 +0000  3199 bytes for ./Payload/CredictCard.app/HHmillionCell.nib
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/HHWXLoginVC.nib/objects-11.0+.nib ... 
+2018-03-07 09:31:12 +0000  8101 bytes for ./Payload/CredictCard.app/HHWXLoginVC.nib/objects-11.0+.nib
+copying file ./Payload/CredictCard.app/HHWXLoginVC.nib/runtime.nib ... 
+2018-03-07 09:31:12 +0000  7430 bytes for ./Payload/CredictCard.app/HHWXLoginVC.nib/runtime.nib
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/Masonry.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/Masonry.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/Masonry.framework/Masonry ... 
+2018-03-07 09:31:12 +0000  211600 bytes for ./Payload/CredictCard.app/Frameworks/Masonry.framework/Masonry
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/Masonry.framework/Info.plist ... 
+736 bytes for ./Payload/CredictCard.app/Frameworks/Masonry.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/Aspects.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/Aspects.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/Aspects.framework/Aspects ... 
+2018-03-07 09:31:12 +0000  113280 bytes for ./Payload/CredictCard.app/Frameworks/Aspects.framework/Aspects
+copying file ./Payload/CredictCard.app/Frameworks/Aspects.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  736 bytes for ./Payload/CredictCard.app/Frameworks/Aspects.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  3917 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings ... 
+2018-03-07 09:31:12 +0000  1186 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings ... 
+2018-03-07 09:31:12 +0000  1372 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/en.lproj/Localizable.strings
+copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png ... 
+2018-03-07 09:31:12 +0000  1033 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/arrow@2x.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings ... 
+2018-03-07 09:31:12 +0000  773 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings
+copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh ... 
+2018-03-07 09:31:12 +0000  223776 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/MJRefresh
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/Info.plist ... 
+741 bytes for ./Payload/CredictCard.app/Frameworks/MJRefresh.framework/Info.plist
+copying file ./Payload/CredictCard.app/Frameworks/YYCache.framework/_CodeSignature/CodeResources ... 
+2202 bytes for ./Payload/CredictCard.app/Frameworks/YYCache.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/YYCache.framework/YYCache ... 
+2018-03-07 09:31:12 +0000  193296 bytes for ./Payload/CredictCard.app/Frameworks/YYCache.framework/YYCache
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/YYCache.framework/Info.plist ... 
+736 bytes for ./Payload/CredictCard.app/Frameworks/YYCache.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/YYCategories.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/YYCategories.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/YYCategories.framework/YYCategories ... 
+2018-03-07 09:31:12 +0000  410528 bytes for ./Payload/CredictCard.app/Frameworks/YYCategories.framework/YYCategories
+copying file ./Payload/CredictCard.app/Frameworks/YYCategories.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  746 bytes for ./Payload/CredictCard.app/Frameworks/YYCategories.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJExtension.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/MJExtension.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJExtension.framework/MJExtension ... 
+2018-03-07 09:31:12 +0000  176208 bytes for ./Payload/CredictCard.app/Frameworks/MJExtension.framework/MJExtension
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MJExtension.framework/Info.plist ... 
+745 bytes for ./Payload/CredictCard.app/Frameworks/MJExtension.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  6110 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD ... 
+2018-03-07 09:31:12 +0000  186592 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png ... 
+2018-03-07 09:31:12 +0000  365 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png ... 
+2018-03-07 09:31:12 +0000  398 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png ... 
+2018-03-07 09:31:12 +0000  8319 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png ... 
+4893 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png ... 
+2018-03-07 09:31:12 +0000  306 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png ... 
+2018-03-07 09:31:12 +0000  1200 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png ... 
+2018-03-07 09:31:12 +0000  462 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png ... 
+2018-03-07 09:31:12 +0000  714 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png ... 
+2018-03-07 09:31:12 +0000  816 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png ... 
+2018-03-07 09:31:12 +0000  184 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png ... 
+2018-03-07 09:31:12 +0000  262 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png
+copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png ... 
+2018-03-07 09:31:12 +0000  1845 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  748 bytes for ./Payload/CredictCard.app/Frameworks/SVProgressHUD.framework/Info.plist
+copying file ./Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack ... 
+2018-03-07 09:31:12 +0000  325296 bytes for ./Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack
+copying file ./Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  754 bytes for ./Payload/CredictCard.app/Frameworks/CocoaLumberjack.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/SDCycleScrollView ... 
+2018-03-07 09:31:12 +0000  159856 bytes for ./Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/SDCycleScrollView
+copying file ./Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  759 bytes for ./Payload/CredictCard.app/Frameworks/SDCycleScrollView.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  5102 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png ... 
+2018-03-07 09:31:12 +0000  1786 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png
+copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png ... 
+2018-03-07 09:31:12 +0000  2164 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png
+copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png ... 
+2018-03-07 09:31:12 +0000  1769 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png
+copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png ... 
+2018-03-07 09:31:12 +0000  1844 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png ... 
+2018-03-07 09:31:12 +0000  1815 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png
+copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png ... 
+2018-03-07 09:31:12 +0000  2177 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png
+copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png ... 
+2018-03-07 09:31:12 +0000  1764 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png ... 
+2018-03-07 09:31:12 +0000  1793 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png
+copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager ... 
+2018-03-07 09:31:12 +0000  302080 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/IQKeyboardManager
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/Info.plist ... 
+758 bytes for ./Payload/CredictCard.app/Frameworks/IQKeyboardManager.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/MBProgressHUD ... 
+2018-03-07 09:31:12 +0000  156752 bytes for ./Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/MBProgressHUD
+copying file ./Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  748 bytes for ./Payload/CredictCard.app/Frameworks/MBProgressHUD.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  754 bytes for ./Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/Info.plist
+copying file ./Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet ... 
+2018-03-07 09:31:12 +0000  129632 bytes for ./Payload/CredictCard.app/Frameworks/DZNEmptyDataSet.framework/DZNEmptyDataSet
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/BlocksKit.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/BlocksKit.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/BlocksKit.framework/BlocksKit ... 
+2018-03-07 09:31:12 +0000  336432 bytes for ./Payload/CredictCard.app/Frameworks/BlocksKit.framework/BlocksKit
+copying file ./Payload/CredictCard.app/Frameworks/BlocksKit.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  740 bytes for ./Payload/CredictCard.app/Frameworks/BlocksKit.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/SDWebImage.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/SDWebImage.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage ... 
+2018-03-07 09:31:12 +0000  363008 bytes for ./Payload/CredictCard.app/Frameworks/SDWebImage.framework/SDWebImage
+copying file ./Payload/CredictCard.app/Frameworks/SDWebImage.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  742 bytes for ./Payload/CredictCard.app/Frameworks/SDWebImage.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/AFNetworking.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/AFNetworking.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/AFNetworking.framework/AFNetworking ... 
+2018-03-07 09:31:12 +0000  542688 bytes for ./Payload/CredictCard.app/Frameworks/AFNetworking.framework/AFNetworking
+copying file ./Payload/CredictCard.app/Frameworks/AFNetworking.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  746 bytes for ./Payload/CredictCard.app/Frameworks/AFNetworking.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/JSONModel.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/JSONModel.framework/_CodeSignature/CodeResources
+copying file ./Payload/CredictCard.app/Frameworks/JSONModel.framework/JSONModel ... 
+2018-03-07 09:31:12 +0000  227152 bytes for ./Payload/CredictCard.app/Frameworks/JSONModel.framework/JSONModel
+copying file ./Payload/CredictCard.app/Frameworks/JSONModel.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  740 bytes for ./Payload/CredictCard.app/Frameworks/JSONModel.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/_CodeSignature/CodeResources ... 
+2018-03-07 09:31:12 +0000  2202 bytes for ./Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/_CodeSignature/CodeResources
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit ... 
+2018-03-07 09:31:12 +0000  320800 bytes for ./Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/WHC_AutoLayoutKit
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/Info.plist ... 
+2018-03-07 09:31:12 +0000  758 bytes for ./Payload/CredictCard.app/Frameworks/WHC_AutoLayoutKit.framework/Info.plist
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/embedded.mobileprovision ... 
+2018-03-07 09:31:12 +0000  8140 bytes for ./Payload/CredictCard.app/embedded.mobileprovision
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/HHCanWithDrawCell.nib/objects-11.0+.nib ... 
+2018-03-07 09:31:12 +0000  5071 bytes for ./Payload/CredictCard.app/HHCanWithDrawCell.nib/objects-11.0+.nib
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/HHCanWithDrawCell.nib/runtime.nib ... 
+2018-03-07 09:31:12 +0000  4159 bytes for ./Payload/CredictCard.app/HHCanWithDrawCell.nib/runtime.nib
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/Info.plist ... 
+2018-03-07 09:31:12 +0000  3648 bytes for ./Payload/CredictCard.app/Info.plist
+copying file ./Payload/CredictCard.app/PkgInfo ... 
+2018-03-07 09:31:12 +0000  8 bytes for ./Payload/CredictCard.app/PkgInfo
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/HHTodayPlanCell1.nib ... 
+2018-03-07 09:31:12 +0000  5740 bytes for ./Payload/CredictCard.app/HHTodayPlanCell1.nib
+2018-03-07 09:31:12 +0000  copying file ./Payload/CredictCard.app/HHBankListCell.nib ... 
+2018-03-07 09:31:12 +0000  3585 bytes for ./Payload/CredictCard.app/HHBankListCell.nib
+2018-03-07 09:31:12 +0000  
+2018-03-07 09:31:12 +0000  2018-03-07 09:31:12 +0000  /usr/bin/ditto exited with 02018-03-07 09:31:12 +0000  
+
+
+2018-03-07 09:31:12 +0000  
+2018-03-07 09:31:12 +0000  2018-03-07 09:31:12 +0000  Processing step: IDEDistributionCreateManifestStep
+
